@@ -27,7 +27,7 @@
     "express": "^5.2.1",
     "pg": "^8.23.0",
     "standardwebhooks": "^1.0.0",
-    "stream-chat": "^9.51.0",
+    "stream-chat": "^8.57.6",
     "zod": "^4.4.3"
   },
   "devDependencies": {
